@@ -83,3 +83,11 @@ EDA helps transform raw data into meaningful insights that support better busine
 - Query Analysis With Database (SQL,MySQL,PgAdmin4)
 
 ---
+Retail-Sales-EDA/
+│
+├── Retail_Cleaned_Sales_Data.xlsx
+├── Retail_EDA.ipynb
+├── retail_store_sales.csv
+├── README.md
+
+
