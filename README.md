@@ -84,7 +84,6 @@ EDA helps transform raw data into meaningful insights that support better busine
 
 ---
 Retail-Sales-EDA/
-│
 ├── Retail_Cleaned_Sales_Data.xlsx
 ├── Retail_EDA.ipynb
 ├── retail_store_sales.csv
